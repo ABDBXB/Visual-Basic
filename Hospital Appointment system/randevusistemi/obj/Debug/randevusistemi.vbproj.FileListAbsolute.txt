@@ -1,0 +1,28 @@
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\bin\Debug\randevusistemi.exe.config
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\bin\Debug\randevusistemi.exe
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\bin\Debug\randevusistemi.pdb
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\bin\Debug\randevusistemi.xml
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\obj\Debug\randevusistemi.vbprojAssemblyReference.cache
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\obj\Debug\randevusistemi.Form1.resources
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\obj\Debug\randevusistemi.Resources.resources
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\obj\Debug\randevusistemi.vbproj.GenerateResource.cache
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\obj\Debug\randevusistemi.vbproj.CoreCompileInputs.cache
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\obj\Debug\randevusistemi.exe
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\obj\Debug\randevusistemi.xml
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\obj\Debug\randevusistemi.pdb
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\bin\Debug\Database1.mdf
+G:\III Donem\Gorsel_Programlama\11Ders\randevusistemi\bin\Debug\Database1_log.ldf
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\bin\Debug\Database1.mdf
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\bin\Debug\Database1_log.ldf
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\bin\Debug\randevusistemi.exe.config
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\bin\Debug\randevusistemi.exe
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\bin\Debug\randevusistemi.pdb
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\bin\Debug\randevusistemi.xml
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\obj\Debug\randevusistemi.vbprojAssemblyReference.cache
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\obj\Debug\randevusistemi.Form1.resources
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\obj\Debug\randevusistemi.Resources.resources
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\obj\Debug\randevusistemi.vbproj.GenerateResource.cache
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\obj\Debug\randevusistemi.vbproj.CoreCompileInputs.cache
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\obj\Debug\randevusistemi.exe
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\obj\Debug\randevusistemi.xml
+E:\IIII Donem\Görsel Programlama II\randevu sistemi\randevusistemi\obj\Debug\randevusistemi.pdb

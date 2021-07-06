@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Database1DataSet3" targetNamespace="http://tempuri.org/Database1DataSet3.xsd" xmlns:mstns="http://tempuri.org/Database1DataSet3.xsd" xmlns="http://tempuri.org/Database1DataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="Database1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Database1ConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.randevusistemi.My.MySettings.GlobalReference.Default.Database1ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="poliklinikTableAdapter" GeneratorDataComponentClassName="poliklinikTableAdapter" Name="poliklinik" UserDataComponentName="poliklinikTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Database1ConnectionString (MySettings)" DbObjectName="dbo.poliklinik" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT poliklinik_ad FROM dbo.poliklinik</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="poliklinik_ad" DataSetColumn="poliklinik_ad" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Database1DataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Database1DataSet3" msprop:Generator_UserDSName="Database1DataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="poliklinik" msprop:Generator_TableClassName="poliklinikDataTable" msprop:Generator_TableVarName="tablepoliklinik" msprop:Generator_TablePropName="poliklinik" msprop:Generator_RowDeletingName="poliklinikRowDeleting" msprop:Generator_RowChangingName="poliklinikRowChanging" msprop:Generator_RowEvHandlerName="poliklinikRowChangeEventHandler" msprop:Generator_RowDeletedName="poliklinikRowDeleted" msprop:Generator_UserTableName="poliklinik" msprop:Generator_RowChangedName="poliklinikRowChanged" msprop:Generator_RowEvArgName="poliklinikRowChangeEvent" msprop:Generator_RowClassName="poliklinikRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="poliklinik_ad" msprop:Generator_ColumnVarNameInTable="columnpoliklinik_ad" msprop:Generator_ColumnPropNameInRow="poliklinik_ad" msprop:Generator_ColumnPropNameInTable="poliklinik_adColumn" msprop:Generator_UserColumnName="poliklinik_ad">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
