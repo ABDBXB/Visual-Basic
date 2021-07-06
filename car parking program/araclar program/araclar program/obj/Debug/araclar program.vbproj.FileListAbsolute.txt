@@ -1,0 +1,14 @@
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\bin\Debug\Database1.mdf
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\bin\Debug\Database1_log.ldf
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\bin\Debug\araclar program.exe.config
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\bin\Debug\araclar program.exe
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\bin\Debug\araclar program.pdb
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\bin\Debug\araclar program.xml
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\obj\Debug\araclar program.vbprojAssemblyReference.cache
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\obj\Debug\araclar_program.Form1.resources
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\obj\Debug\araclar_program.Resources.resources
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\obj\Debug\araclar program.vbproj.GenerateResource.cache
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\obj\Debug\araclar program.vbproj.CoreCompileInputs.cache
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\obj\Debug\araclar program.exe
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\obj\Debug\araclar program.xml
+E:\IIII Donem\Görsel Programlama II\araclar programi\araclar program\araclar program\obj\Debug\araclar program.pdb
